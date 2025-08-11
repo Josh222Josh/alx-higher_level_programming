@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-name='"Programming is like building a multilingual puzzle'
+name='"Programming is like building a multilingual puzzle\n'
 print(name)
